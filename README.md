@@ -11,30 +11,30 @@ A high-fidelity interactive prototype exploring how Uber could let riders person
 This is a product design concept built as a fully interactive React prototype. It covers the complete user flow from ride booking through vibe selection, music pairing, and the active ride experience.
 
 **Vibes available:**
-- 🎯 Deep Focus — minimal, zero distraction
-- 🌙 Wind Down — slow, soft & easy
-- ⚡ Hype — turn it all the way up
-- 💬 Social — chat-friendly, upbeat
-- 💼 Work Mode — stay productive on the go
-- ✨ Surprise Me — let the driver choose
+- Deep Focus: minimal, zero distraction
+- Wind Down: slow, soft & easy
+- Hype: turn it all the way up
+- Social: chat-friendly, upbeat
+- Work Mode: stay productive on the go
+- Surprise Me: let the driver choose
 
 ## Flow
 
-1. **Booking screen** — standard Uber map view with vibe entry point
-2. **Vibe grid** — browse and select your ride atmosphere
-3. **Vibe detail** — expanded view with music options and description
-4. **Music selection** — pick a playlist or genre to match your vibe
-5. **Confirmation** — vibe is set, driver is notified
-6. **Active ride** — immersive in-ride experience with ambient UI
+1. **Booking screen**: standard Uber map view with vibe entry point
+2. **Vibe grid**: browse and select your ride atmosphere
+3. **Vibe detail**: expanded view with music options and description
+4. **Music selection**: pick a playlist or genre to match your vibe
+5. **Confirmation**: vibe is set, driver is notified
+6. **Active ride**: immersive in-ride experience with ambient UI
 
 ## Tech stack
 
 - **React 18** + **TypeScript**
-- **Vite** — fast dev server and build tool
-- **Tailwind CSS v4** — utility-first styling
-- **Framer Motion** — animations and transitions
-- **shadcn/ui** + **Radix UI** — accessible component primitives
-- **Lucide React** — icons
+- **Vite**: fast dev server and build tool
+- **Tailwind CSS v4**: utility-first styling
+- **Framer Motion**: animations and transitions
+- **shadcn/ui** + **Radix UI**: accessible component primitives
+- **Lucide React**: icons
 
 ## Getting started
 
