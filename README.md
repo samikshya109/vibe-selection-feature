@@ -2,7 +2,7 @@ Click here to experience the Prototype - https://vibe-selection-feature.vercel.a
 
 # Vibe Selection — Uber Concept Feature
 
-A high-fidelity interactive prototype exploring how Uber could let riders personalize their journey before getting in the car — choosing a mood, setting the atmosphere, and syncing their music.
+A high-fidelity interactive prototype exploring how Uber could let riders personalize their journey before getting in the car - choosing a mood, setting the atmosphere, and syncing their music.
 
 ![Vibe Selection Preview](./assets/preview.png)
 
