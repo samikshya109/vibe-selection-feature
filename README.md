@@ -2,7 +2,7 @@
 
 A high-fidelity interactive prototype exploring how Uber could let riders personalize their journey before getting in the car — choosing a mood, setting the atmosphere, and syncing their music.
 
-![Vibe Selection Preview](./src/imports/Frame72/4e650b79161aa5e1684e266610e0a0bae4ffb923.png)
+![Vibe Selection Preview](./assets/preview.png)
 
 ## What it is
 
