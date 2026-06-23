@@ -31,16 +31,14 @@ Uber rides are a blank experience. You get in the car and whatever happens, happ
 
 ## The Solution
 
-Vibe Selection lets riders set the mood *before* they get in the car. Pick a vibe — 
-Focus, Wind Down, Hype, Chat, Work, or Surprise Me — and the driver sees it before 
-pickup. No awkward conversations needed. The music, atmosphere, and interaction level 
+Vibe Selection lets riders set the mood *before* they get in the car. Pick a vibe - Focus, Wind Down, Hype, Chat, Work, or Surprise Me — and the driver sees it before  pickup. No awkward conversations needed. The music, atmosphere, and interaction level 
 are all communicated in one tap.
 
 **Why it works:**
 - Riders feel in control of their experience without being demanding
 - Drivers know exactly what's expected before the passenger gets in
 - It turns a transactional ride into a personalized moment
-- Works within Uber's existing booking flow — zero extra steps forced on the user
+- Works within Uber's existing booking flow, zero extra steps forced on the user
 
 ## Flow
 
